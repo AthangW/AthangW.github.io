@@ -861,7 +861,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Skills
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
@@ -1459,4 +1459,11 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+
+/* Hardcoded */
+
+.lead {
+  font-size: 1.10rem;
+  font-weight: 300;
 }
