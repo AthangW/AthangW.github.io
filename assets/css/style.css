@@ -1,6 +1,6 @@
 /**
-* Template Name: DevFolio
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+* Template Name: Harshal
+* Template URL: https://bootstrapmade.com/harshal-bootstrap-portfolio-html-template/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -844,21 +844,6 @@ a:hover {
   }
 }
 
-.skill-mf span {
-  color: #4e4e4e;
-}
-
-.skill-mf .progress {
-  background-color: #cde1f8;
-  margin: 0.5rem 0 1.2rem 0;
-  border-radius: 0;
-  height: 0.7rem;
-}
-
-.skill-mf .progress .progress-bar {
-  height: 0.7rem;
-  background-color: #0078ff;
-}
 
 /*--------------------------------------------------------------
 # Skills
@@ -1466,4 +1451,8 @@ footer .credits a {
 .lead {
   font-size: 1.10rem;
   font-weight: 300;
+}
+
+.logo{
+  width: 100px;
 }
