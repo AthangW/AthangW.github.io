@@ -41,13 +41,9 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
 ## 💻 Built with (Sources and Credits)
 
-- www.unsplash.com
+- https://getbootstrap.com/
+- https://devicon.dev/
 - https://fonts.google.com/specimen/Roboto
-- http://zavoloklom.github.io/material-design-iconic-font/
-- http://jquery.com
-- https://material.io/icons/
-- http://getbootstrap.com/
-- https://getmdl.io/components/index.html
 
 ## Contributors ✨
 
@@ -72,12 +68,11 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
 **Please contact me using one of the following:**
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ptharshal09)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalk2022/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshalk2022/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Harshal55570425)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-khandalkar)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshal_khandalkar_28/)
 [![](https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harshalk2022/)
-[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/harshalk2022)
-[![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/harshalk2022)
+[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/harshal.khandalkar.1)
 
 <hr>
 <p align="center">  
