@@ -1,6 +1,6 @@
 <p align="center"><a href="https://harshalk2022.github.io"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
 <p align="center">
-	<a href="https://github.com/harshalk2022"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
+	<a href="https://github.com/harshalk2022"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Harshal%20Khandalkar-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/harshalk2022/harshalk2022.github.io/LICENSE"><img alt="License" src="https://img.shields.io/github/license/harshalk2022/harshalk2022.github.io.svg?style=flat-square"/></a>
 	<a href="https://harshalk2022.github.io"><img alt="Website Status" src="https://img.shields.io/website/http/harshalk2022.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
 	<a href="https://github.com/harshalk2022/harshalk2022.github.io/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/harshalk2022/linkpe.svg?style=flat-square"/></a>
@@ -16,8 +16,8 @@
 	<i>Loved the tool? Please consider <a href="https://paypal.me/harshalk2022/100">donating</a> 💸 to help it improve!</i><br>
 	<a href="https://paypal.me/harshalk2022"><img height='23' src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
 	<a href='https://ko-fi.com/harshalk2022' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for harshalk2022' /></a>
-	<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
-	<a href="upi://pay?pa=pt1997@ybl&pn=Pt.+Prashant+Tripati" target="_blank"><img src="https://raw.githubusercontent.com/harshalk2022/harshalk2022.github.io/main/img/phonepe-logo-big.png" alt="Support Via UPI" height="23" style="border-radius:1px" /></a>
+	<a href="https://www.buymeacoffee.com/ptharshal09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
+	<a href="upi://pay?pa=pt1997@ybl&pn=Harshal+Khandalkar" target="_blank"><img src="https://raw.githubusercontent.com/harshalk2022/harshalk2022.github.io/main/img/phonepe-logo-big.png" alt="Support Via UPI" height="23" style="border-radius:1px" /></a>
 </p>
 
 ## About
@@ -54,14 +54,14 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <p align="left">
 <a href="https://www.paypal.me/harshalk2022"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
 </a>
-<a href="upi://pay/?pa=pt1998%40ybl&pn=Pt.+Prashant+Tripathi">
+<a href="upi://pay/?pa=pt1998%40ybl&pn=Harshal+Khandalkar">
 <img src="https://raw.githubusercontent.com/harshalk2022/harshalk2022.github.io/main/img/phonepe-logo-big.png" alt="linkpe"/>
 </a>
 </p>
 <p align="left">
   <a href='https://ko-fi.com/harshalk2022' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for harshalk2022' />
   </a>
-  <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+  <a href="https://www.buymeacoffee.com/ptharshal09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
 
 ## Contributors ✨
@@ -70,7 +70,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 	<tr>
 		<th align="center">
 				<a href="https://github.com/harshalk2022">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+					<sub><b>harshalk2022</b></sub>
 				</a>
 		</th>
   	</tr>
@@ -87,7 +87,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
 **Please contact me using one of the following:**
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ptprashant09)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ptharshal09)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalk2022/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshalk2022/)
 [![](https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harshalk2022/)
