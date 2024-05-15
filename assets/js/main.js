@@ -1,6 +1,6 @@
 /**
-* Template Name: Harshal
-* Template URL: https://bootstrapmade.com/harshal-bootstrap-portfolio-html-template/
+* Template Name: Athang
+* Template URL: https://bootstrapmade.com/Athang-bootstrap-portfolio-html-template/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
